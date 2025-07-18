@@ -49,8 +49,8 @@ You can load and analyze the dataset using Python and Pandas
 
 ## 🛠️ Data Source & Credits
 
-These datasets are curated from publicly available export data from the Indian government's commerce and trade departments. Minor cleaning has been applied to ensure consistency across years.
-https://www.data.gov.in/apis?page=3
+These datasets are curated from publicly available export data from [here](https://www.data.gov.in/apis?page=3).
 
-## Find it on Kaggle
-https://www.kaggle.com/datasets/enpiee/commodity-wise-export-india
+
+## Find it on [Kaggle](https://www.kaggle.com/datasets/enpiee/commodity-wise-export-india)
+
